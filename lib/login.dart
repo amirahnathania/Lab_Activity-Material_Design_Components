@@ -29,7 +29,7 @@ class _LoginPageState extends State<LoginPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: const Color.fromARGB(255, 255, 255, 255),
+      backgroundColor: const Color(0xFFf4bee6),
       body: SafeArea(
         child: ListView(
           padding: const EdgeInsets.symmetric(horizontal: 24.0),
@@ -40,7 +40,7 @@ class _LoginPageState extends State<LoginPage> {
                   SizedBox(
                     width: 200, // ukuran baru, sedikit lebih besar
                     height: 200,
-                    child: Image.asset('assets/logo.jpg', fit: BoxFit.contain),
+                    child: Image.asset('assets/logo.png', fit: BoxFit.contain),
                   ),
                   const SizedBox(height: 16.0),
                   const Text(''),
