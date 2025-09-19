@@ -18,7 +18,7 @@ class ProductsRepository {
   static List<Product> loadProducts(Category category) {
     const allProducts = <Product>[
       Product(
-        category: Category.accessories,
+        category: Category.NCT,
         id: 0,
         isFeatured: true,
         name: 'Lee Jeno',
@@ -26,7 +26,7 @@ class ProductsRepository {
         assetName: 'assets/Kpop/Jeno.jpg',
       ),
       Product(
-        category: Category.accessories,
+        category: Category.NCT,
         id: 1,
         isFeatured: true,
         name: 'Mark Lee',
@@ -34,7 +34,7 @@ class ProductsRepository {
         assetName: 'assets/Kpop/Mark.jpg',
       ),
       Product(
-        category: Category.accessories,
+        category: Category.NCT,
         id: 2,
         isFeatured: false,
         name: 'Na Jaemin',
@@ -42,7 +42,7 @@ class ProductsRepository {
         assetName: 'assets/Kpop/Jaemin.jpg',
       ),
       Product(
-        category: Category.accessories,
+        category: Category.NCT,
         id: 3,
         isFeatured: true,
         name: 'Huang Renjun',
@@ -50,7 +50,7 @@ class ProductsRepository {
         assetName: 'assets/Kpop/Renjun.jpg',
       ),
       Product(
-        category: Category.accessories,
+        category: Category.NCT,
         id: 4,
         isFeatured: false,
         name: 'Zhong Chenle',
@@ -58,7 +58,7 @@ class ProductsRepository {
         assetName: 'assets/Kpop/Chenle.jpg',
       ),
       Product(
-        category: Category.accessories,
+        category: Category.NCT,
         id: 5,
         isFeatured: false,
         name: 'Lee Jisung',
@@ -66,7 +66,7 @@ class ProductsRepository {
         assetName: 'assets/Kpop/Jisung.jpg',
       ),
       Product(
-        category: Category.accessories,
+        category: Category.NCT,
         id: 6,
         isFeatured: false,
         name: 'Lee Haechan',
@@ -74,7 +74,7 @@ class ProductsRepository {
         assetName: 'assets/Kpop/Haechan.jpg',
       ),
       Product(
-        category: Category.accessories,
+        category: Category.BTS,
         id: 7,
         isFeatured: true,
         name: 'Grup BTS',
@@ -82,7 +82,7 @@ class ProductsRepository {
         assetName: 'assets/Kpop/GrupBTS.jpg',
       ),
       Product(
-        category: Category.accessories,
+        category: Category.BTS,
         id: 8,
         isFeatured: true,
         name: 'RM BTS',
@@ -90,7 +90,7 @@ class ProductsRepository {
         assetName: 'assets/Kpop/RM.jpg',
       ),
       Product(
-        category: Category.home,
+        category: Category.BTS,
         id: 9,
         isFeatured: true,
         name: 'J-Hope BTS',
@@ -98,7 +98,7 @@ class ProductsRepository {
         assetName: 'assets/Kpop/J-Hope.jpg',
       ),
       Product(
-        category: Category.home,
+        category: Category.BTS,
         id: 10,
         isFeatured: false,
         name: 'Suga BTS',
@@ -106,7 +106,7 @@ class ProductsRepository {
         assetName: 'assets/Kpop/Suga.jpg',
       ),
       Product(
-        category: Category.home,
+        category: Category.BTS,
         id: 11,
         isFeatured: false,
         name: 'Jin BTS',
@@ -114,7 +114,7 @@ class ProductsRepository {
         assetName: 'assets/Kpop/Jin.jpg',
       ),
       Product(
-        category: Category.home,
+        category: Category.BTS,
         id: 12,
         isFeatured: false,
         name: 'Taehyung BTS',
@@ -122,7 +122,7 @@ class ProductsRepository {
         assetName: 'assets/Kpop/Taehyung.jpg',
       ),
       Product(
-        category: Category.home,
+        category: Category.BTS,
         id: 13,
         isFeatured: true,
         name: 'Jungkook BTS',
@@ -130,7 +130,7 @@ class ProductsRepository {
         assetName: 'assets/Kpop/Jungkook.jpg',
       ),
       Product(
-        category: Category.home,
+        category: Category.BTS,
         id: 14,
         isFeatured: true,
         name: 'Jimin BTS',
@@ -138,7 +138,7 @@ class ProductsRepository {
         assetName: 'assets/Kpop/Jimin.jpg',
       ),
       Product(
-        category: Category.home,
+        category: Category.NCT,
         id: 15,
         isFeatured: true,
         name: 'NCT Dream',
@@ -146,7 +146,7 @@ class ProductsRepository {
         assetName: 'assets/Kpop/NCTDream.jpg',
       ),
       Product(
-        category: Category.home,
+        category: Category.NCT,
         id: 16,
         isFeatured: true,
         name: 'NCT 127',
@@ -154,7 +154,7 @@ class ProductsRepository {
         assetName: 'assets/Kpop/NCT127.jpg',
       ),
       Product(
-        category: Category.home,
+        category: Category.NCT,
         id: 17,
         isFeatured: false,
         name: 'Moon Tae-il',
@@ -162,7 +162,7 @@ class ProductsRepository {
         assetName: 'assets/Kpop/Taeil.jpg',
       ),
       Product(
-        category: Category.home,
+        category: Category.NCT,
         id: 18,
         isFeatured: true,
         name: 'Kim Dong-young',
@@ -170,7 +170,7 @@ class ProductsRepository {
         assetName: 'assets/Kpop/Doyoung.jpg',
       ),
       Product(
-        category: Category.clothing,
+        category: Category.NCT,
         id: 19,
         isFeatured: false,
         name: 'Lee Tae-yong',
@@ -178,7 +178,7 @@ class ProductsRepository {
         assetName: 'assets/Kpop/Taeyong.jpg',
       ),
       Product(
-        category: Category.clothing,
+        category: Category.NCT,
         id: 20,
         isFeatured: false,
         name: 'Yuta Nakamoto',
@@ -186,7 +186,7 @@ class ProductsRepository {
         assetName: 'assets/Kpop/Yuta.jpg',
       ),
       Product(
-        category: Category.clothing,
+        category: Category.NCT,
         id: 21,
         isFeatured: false,
         name: 'Jeong Yun-o,',
@@ -194,7 +194,7 @@ class ProductsRepository {
         assetName: 'assets/Kpop/Jaehyun.jpg',
       ),
       Product(
-        category: Category.clothing,
+        category: Category.NCT,
         id: 22,
         isFeatured: false,
         name: 'Kim Jungwoo',
@@ -202,7 +202,7 @@ class ProductsRepository {
         assetName: 'assets/Kpop/Jungwoo.jpg',
       ),
       Product(
-        category: Category.clothing,
+        category: Category.NCT,
         id: 23,
         isFeatured: false,
         name: 'Winwin',
@@ -210,7 +210,7 @@ class ProductsRepository {
         assetName: 'assets/Kpop/Winwin.jpg',
       ),
       Product(
-        category: Category.clothing,
+        category: Category.NCT,
         id: 24,
         isFeatured: true,
         name: 'Seo Young-ho',
@@ -218,7 +218,7 @@ class ProductsRepository {
         assetName: 'assets/Kpop/Johnny.jpg',
       ),
       Product(
-        category: Category.clothing,
+        category: Category.Wayv,
         id: 25,
         isFeatured: false,
         name: 'GrupWayV',
@@ -226,7 +226,7 @@ class ProductsRepository {
         assetName: 'assets/Kpop/Wayv.jpg',
       ),
       Product(
-        category: Category.clothing,
+        category: Category.Wayv,
         id: 26,
         isFeatured: false,
         name: 'Ten',
@@ -234,7 +234,7 @@ class ProductsRepository {
         assetName: 'assets/Kpop/Ten.jpg',
       ),
       Product(
-        category: Category.clothing,
+        category: Category.Wayv,
         id: 27,
         isFeatured: true,
         name: 'Xiao Dejun',
@@ -242,7 +242,7 @@ class ProductsRepository {
         assetName: 'assets/Kpop/Xiaojun.jpg',
       ),
       Product(
-        category: Category.clothing,
+        category: Category.Wayv,
         id: 28,
         isFeatured: true,
         name: 'Huang Guanheng/Hendery',
@@ -250,7 +250,7 @@ class ProductsRepository {
         assetName: 'assets/Kpop/Hendery.jpg',
       ),
       Product(
-        category: Category.clothing,
+        category: Category.Wayv,
         id: 29,
         isFeatured: true,
         name: 'Yangyang',
@@ -258,7 +258,7 @@ class ProductsRepository {
         assetName: 'assets/Kpop/Yangyang.jpg',
       ),
       Product(
-        category: Category.clothing,
+        category: Category.Wayv,
         id: 30,
         isFeatured: true,
         name: 'Qian Kun',
@@ -266,7 +266,7 @@ class ProductsRepository {
         assetName: 'assets/Kpop/Kun.jpg',
       ),
       Product(
-        category: Category.clothing,
+        category: Category.Wayv,
         id: 31,
         isFeatured: false,
         name: 'Lucas Wong',
@@ -274,7 +274,7 @@ class ProductsRepository {
         assetName: 'assets/Kpop/Lucas.jpg',
       ),
       Product(
-        category: Category.clothing,
+        category: Category.TXT,
         id: 32,
         isFeatured: false,
         name: 'TXT',
@@ -282,7 +282,7 @@ class ProductsRepository {
         assetName: 'assets/Kpop/TXT.jpg',
       ),
       Product(
-        category: Category.clothing,
+        category: Category.TXT,
         id: 33,
         isFeatured: true,
         name: 'Choi Yeon-jun ',
@@ -290,7 +290,7 @@ class ProductsRepository {
         assetName: 'assets/Kpop/Yeonjun.jpg',
       ),
       Product(
-        category: Category.clothing,
+        category: Category.TXT,
         id: 34,
         isFeatured: false,
         name: 'Choi Soobin',
@@ -298,7 +298,7 @@ class ProductsRepository {
         assetName: 'assets/Kpop/Soobin.jpg',
       ),
       Product(
-        category: Category.clothing,
+        category: Category.TXT,
         id: 35,
         isFeatured: false,
         name: 'Choi Beomgyu',
@@ -306,7 +306,7 @@ class ProductsRepository {
         assetName: 'assets/Kpop/Beomgyu.jpg',
       ),
       Product(
-        category: Category.clothing,
+        category: Category.TXT,
         id: 36,
         isFeatured: false,
         name: 'Hueningkai',
@@ -314,7 +314,7 @@ class ProductsRepository {
         assetName: 'assets/Kpop/Heuningkai.jpg',
       ),
       Product(
-        category: Category.clothing,
+        category: Category.TXT,
         id: 37,
         isFeatured: true,
         name: 'Kang Tae-hyun',

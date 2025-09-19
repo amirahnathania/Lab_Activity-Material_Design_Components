@@ -16,9 +16,10 @@ import 'package:intl/intl.dart';
 
 enum Category {
   all,
-  accessories,
-  clothing,
-  home,
+  NCT,
+  TXT,
+  Wayv,
+  BTS
 }
 
 class Product {
@@ -28,6 +29,7 @@ class Product {
     required this.isFeatured,
     required this.name,
     required this.price,
+    
     required this.assetName,
     this.assetPackage,
   });
