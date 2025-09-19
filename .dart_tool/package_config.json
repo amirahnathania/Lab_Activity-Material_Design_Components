@@ -116,12 +116,6 @@
       "languageVersion": "3.4"
     },
     {
-      "name": "shrine_images",
-      "rootUri": "file:///Users/amirahnathania/.pub-cache/hosted/pub.dev/shrine_images-2.0.2",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
       "name": "sky_engine",
       "rootUri": "file:///Users/amirahnathania/flutter/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",

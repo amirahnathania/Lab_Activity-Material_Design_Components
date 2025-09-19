@@ -9,8 +9,7 @@
       "dependencies": [
         "cupertino_icons",
         "flutter",
-        "intl",
-        "shrine_images"
+        "intl"
       ],
       "devDependencies": [
         "flutter_lints",
@@ -40,13 +39,6 @@
         "stream_channel",
         "test_api",
         "vector_math"
-      ]
-    },
-    {
-      "name": "shrine_images",
-      "version": "2.0.2",
-      "dependencies": [
-        "flutter"
       ]
     },
     {

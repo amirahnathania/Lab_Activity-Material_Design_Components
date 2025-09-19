@@ -12,6 +12,8 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
+import 'package:intl/intl.dart';
+
 enum Category {
   all,
   accessories,
@@ -40,4 +42,9 @@ class Product {
 
   @override
   String toString() => "$name (id=$id)";
+
+  String get hargaRupiah {
+    final formatter = NumberFormat("#,###", "id_ID");
+    return "Rp ${formatter.format(price)}";
+  }
 }

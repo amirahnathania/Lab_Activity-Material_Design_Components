@@ -22,7 +22,7 @@ class ProductsRepository {
         id: 0,
         isFeatured: true,
         name: 'Lee Jeno',
-        price: 120,
+        price: 15000,
         assetName: 'assets/Kpop/Jeno.jpg',
       ),
       Product(
@@ -30,7 +30,7 @@ class ProductsRepository {
         id: 1,
         isFeatured: true,
         name: 'Mark Lee',
-        price: 58,
+        price: 15000,
         assetName: 'assets/Kpop/Mark.jpg',
       ),
       Product(
@@ -38,7 +38,7 @@ class ProductsRepository {
         id: 2,
         isFeatured: false,
         name: 'Na Jaemin',
-        price: 35,
+        price: 15000,
         assetName: 'assets/Kpop/Jaemin.jpg',
       ),
       Product(
@@ -46,7 +46,7 @@ class ProductsRepository {
         id: 3,
         isFeatured: true,
         name: 'Huang Renjun',
-        price: 98,
+        price: 15000,
         assetName: 'assets/Kpop/Renjun.jpg',
       ),
       Product(
@@ -54,7 +54,7 @@ class ProductsRepository {
         id: 4,
         isFeatured: false,
         name: 'Zhong Chenle',
-        price: 34,
+        price: 15000,
         assetName: 'assets/Kpop/Chenle.jpg',
       ),
       Product(
@@ -62,7 +62,7 @@ class ProductsRepository {
         id: 5,
         isFeatured: false,
         name: 'Lee Jisung',
-        price: 12,
+        price: 15000,
         assetName: 'assets/Kpop/Jisung.jpg',
       ),
       Product(
@@ -70,7 +70,7 @@ class ProductsRepository {
         id: 6,
         isFeatured: false,
         name: 'Lee Haechan',
-        price: 16,
+        price: 15000,
         assetName: 'assets/Kpop/Haechan.jpg',
       ),
       Product(
@@ -78,7 +78,7 @@ class ProductsRepository {
         id: 7,
         isFeatured: true,
         name: 'Grup BTS',
-        price: 40,
+        price: 25000,
         assetName: 'assets/Kpop/GrupBTS.jpg',
       ),
       Product(
@@ -86,7 +86,7 @@ class ProductsRepository {
         id: 8,
         isFeatured: true,
         name: 'RM BTS',
-        price: 198,
+        price: 15000,
         assetName: 'assets/Kpop/RM.jpg',
       ),
       Product(
@@ -94,7 +94,7 @@ class ProductsRepository {
         id: 9,
         isFeatured: true,
         name: 'J-Hope BTS',
-        price: 58,
+        price: 15000,
         assetName: 'assets/Kpop/J-Hope.jpg',
       ),
       Product(
@@ -102,7 +102,7 @@ class ProductsRepository {
         id: 10,
         isFeatured: false,
         name: 'Suga BTS',
-        price: 18,
+        price: 15000,
         assetName: 'assets/Kpop/Suga.jpg',
       ),
       Product(
@@ -110,7 +110,7 @@ class ProductsRepository {
         id: 11,
         isFeatured: false,
         name: 'Jin BTS',
-        price: 28,
+        price: 15000,
         assetName: 'assets/Kpop/Jin.jpg',
       ),
       Product(
@@ -118,7 +118,7 @@ class ProductsRepository {
         id: 12,
         isFeatured: false,
         name: 'Taehyung BTS',
-        price: 34,
+        price: 15000,
         assetName: 'assets/Kpop/Taehyung.jpg',
       ),
       Product(
@@ -126,7 +126,7 @@ class ProductsRepository {
         id: 13,
         isFeatured: true,
         name: 'Jungkook BTS',
-        price: 18,
+        price: 15000,
         assetName: 'assets/Kpop/Jungkook.jpg',
       ),
       Product(
@@ -134,7 +134,7 @@ class ProductsRepository {
         id: 14,
         isFeatured: true,
         name: 'Jimin BTS',
-        price: 27,
+        price: 15000,
         assetName: 'assets/Kpop/Jimin.jpg',
       ),
       Product(
@@ -142,7 +142,7 @@ class ProductsRepository {
         id: 15,
         isFeatured: true,
         name: 'NCT Dream',
-        price: 16,
+        price: 25000,
         assetName: 'assets/Kpop/NCTDream.jpg',
       ),
       Product(
@@ -150,7 +150,7 @@ class ProductsRepository {
         id: 16,
         isFeatured: true,
         name: 'NCT 127',
-        price: 16,
+        price: 25000,
         assetName: 'assets/Kpop/NCT127.jpg',
       ),
       Product(
@@ -158,7 +158,7 @@ class ProductsRepository {
         id: 17,
         isFeatured: false,
         name: 'Moon Tae-il',
-        price: 175,
+        price: 15000,
         assetName: 'assets/Kpop/Taeil.jpg',
       ),
       Product(
@@ -166,7 +166,7 @@ class ProductsRepository {
         id: 18,
         isFeatured: true,
         name: 'Kim Dong-young',
-        price: 129,
+        price: 15000,
         assetName: 'assets/Kpop/Doyoung.jpg',
       ),
       Product(
@@ -174,7 +174,7 @@ class ProductsRepository {
         id: 19,
         isFeatured: false,
         name: 'Lee Tae-yong',
-        price: 48,
+        price: 15000,
         assetName: 'assets/Kpop/Taeyong.jpg',
       ),
       Product(
@@ -182,7 +182,7 @@ class ProductsRepository {
         id: 20,
         isFeatured: false,
         name: 'Yuta Nakamoto',
-        price: 45,
+        price: 15000,
         assetName: 'assets/Kpop/Yuta.jpg',
       ),
       Product(
@@ -190,7 +190,7 @@ class ProductsRepository {
         id: 21,
         isFeatured: false,
         name: 'Jeong Yun-o,',
-        price: 38,
+        price: 15000,
         assetName: 'assets/Kpop/Jaehyun.jpg',
       ),
       Product(
@@ -198,7 +198,7 @@ class ProductsRepository {
         id: 22,
         isFeatured: false,
         name: 'Kim Jungwoo',
-        price: 70,
+        price: 15000,
         assetName: 'assets/Kpop/Jungwoo.jpg',
       ),
       Product(
@@ -206,7 +206,7 @@ class ProductsRepository {
         id: 23,
         isFeatured: false,
         name: 'Winwin',
-        price: 70,
+        price: 15000,
         assetName: 'assets/Kpop/Winwin.jpg',
       ),
       Product(
@@ -214,7 +214,7 @@ class ProductsRepository {
         id: 24,
         isFeatured: true,
         name: 'Seo Young-ho',
-        price: 60,
+        price: 15000,
         assetName: 'assets/Kpop/Johnny.jpg',
       ),
       Product(
@@ -222,7 +222,7 @@ class ProductsRepository {
         id: 25,
         isFeatured: false,
         name: 'GrupWayV',
-        price: 178,
+        price: 25000,
         assetName: 'assets/Kpop/Wayv.jpg',
       ),
       Product(
@@ -230,7 +230,7 @@ class ProductsRepository {
         id: 26,
         isFeatured: false,
         name: 'Ten',
-        price: 74,
+        price: 15000,
         assetName: 'assets/Kpop/Ten.jpg',
       ),
       Product(
@@ -238,7 +238,7 @@ class ProductsRepository {
         id: 27,
         isFeatured: true,
         name: 'Xiao Dejun',
-        price: 38,
+        price: 15000,
         assetName: 'assets/Kpop/Xiaojun.jpg',
       ),
       Product(
@@ -246,7 +246,7 @@ class ProductsRepository {
         id: 28,
         isFeatured: true,
         name: 'Huang Guanheng/Hendery',
-        price: 48,
+        price: 15000,
         assetName: 'assets/Kpop/Hendery.jpg',
       ),
       Product(
@@ -254,7 +254,7 @@ class ProductsRepository {
         id: 29,
         isFeatured: true,
         name: 'Yangyang',
-        price: 98,
+        price: 15000,
         assetName: 'assets/Kpop/Yangyang.jpg',
       ),
       Product(
@@ -262,7 +262,7 @@ class ProductsRepository {
         id: 30,
         isFeatured: true,
         name: 'Qian Kun',
-        price: 68,
+        price: 15000,
         assetName: 'assets/Kpop/Kun.jpg',
       ),
       Product(
@@ -270,7 +270,7 @@ class ProductsRepository {
         id: 31,
         isFeatured: false,
         name: 'Lucas Wong',
-        price: 38,
+        price: 15000,
         assetName: 'assets/Kpop/Lucas.jpg',
       ),
       Product(
@@ -278,7 +278,7 @@ class ProductsRepository {
         id: 32,
         isFeatured: false,
         name: 'TXT',
-        price: 58,
+        price: 25000,
         assetName: 'assets/Kpop/TXT.jpg',
       ),
       Product(
@@ -286,7 +286,7 @@ class ProductsRepository {
         id: 33,
         isFeatured: true,
         name: 'Choi Yeon-jun ',
-        price: 42,
+        price: 15000,
         assetName: 'assets/Kpop/Yeonjun.jpg',
       ),
       Product(
@@ -294,7 +294,7 @@ class ProductsRepository {
         id: 34,
         isFeatured: false,
         name: 'Choi Soobin',
-        price: 27,
+        price: 15000,
         assetName: 'assets/Kpop/Soobin.jpg',
       ),
       Product(
@@ -302,7 +302,7 @@ class ProductsRepository {
         id: 35,
         isFeatured: false,
         name: 'Choi Beomgyu',
-        price: 24,
+        price: 15000,
         assetName: 'assets/Kpop/Beomgyu.jpg',
       ),
       Product(
@@ -310,7 +310,7 @@ class ProductsRepository {
         id: 36,
         isFeatured: false,
         name: 'Hueningkai',
-        price: 58,
+        price: 15000,
         assetName: 'assets/Kpop/Heuningkai.jpg',
       ),
       Product(
@@ -318,7 +318,7 @@ class ProductsRepository {
         id: 37,
         isFeatured: true,
         name: 'Kang Tae-hyun',
-        price: 58,
+        price: 15000,
         assetName: 'assets/Kpop/Taehyun.jpg',
       ),
     ];
